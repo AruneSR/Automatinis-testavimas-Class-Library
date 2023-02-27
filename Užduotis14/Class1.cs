@@ -7,7 +7,7 @@ namespace Užduotis14
 {
     internal class Class1
     {  
-        [Test ]
+        [Test]
         public void TextBoxAllInputFields()
         {
             string expectedResult = "Arune";
